@@ -1,0 +1,12 @@
+/*index.css*/
+.demon1 {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 15px;
+}
+.demon2 {
+    width: 200px;
+    height: 200px;
+    background: orange;
+}
